@@ -18,4 +18,7 @@
     $docker run hello-world 
     ```
 
-##### 
+
+
+## Part 1 -  Basic ML
+
